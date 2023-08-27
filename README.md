@@ -2,32 +2,35 @@
 
 ## Aplicação DELIVERY utilizando REACT NATIVE junto com NodeJS e MYSQL com as seguintes características:
 
--Arquitetura Limpa
+- Clean Architecture
 - Padrão MVVM
--digitado
--Ganchos
--API de contexto
--Exposição CLI
-- Armazenamento Assíncrono (Persistência de Dados)
+- Hooks
+- Context API
+- Expo CLI
+- Async Storage (Persistência de Dados)
 - Integrar aplicação com NodeJS (Backend).
 - Criar tabelas no banco de dados
 - Faça consultas simples e complexas no MySQL
 - Tratamento de dados em tempo real usando SOCKET IO
 - Autenticação de usuários com JSON WEB TOKENS
-- Google mapas
+- Google maps
 - Notificações via push
 - Desenhe rotas no mapa do ponto A ao B
 - Coloque marcadores personalizados
-- Integre o Firebase Storage para armazenar imagens na nuvem
+- Integração com o Firebase Storage para armazenar imagens na nuvem
 - Relacionamento de dados em bancos de dados MySQL
 - Navegação GPS
 - Geolocalização
 - Solicitações HTTP
-- Pagamento de mercado
--Listra
--Código do Estúdio Visual
--Carteiro
-- Bancada de trabalho MySQL
+- Mercado Pago
+- Stripe
+- Visual Studio Code
+- Postman
+- Banco de dados MySQL
+- CRUD Produtos
+- CRUD Categorias
+- CRUD carrinho de compras
+
 
 ## ReactNativo:
 
@@ -40,33 +43,3 @@ Concebido como um ambiente de execução JavaScript assíncrono orientado a even
 ## MySQL:
 
 É um sistema de gerenciamento de banco de dados relacional de código aberto apoiado pela Oracle e baseado em Structured Query Language (SQL). MySQL funciona em praticamente todas as plataformas, incluindo Linux, UNIX e Windows. Embora possa ser usado em uma ampla gama de aplicações.
-
--Arquitetura Limpa
-- Padrão MVVM
--digitado
--Ganchos
-- API de contexto (estado global da aplicação)
--Exposição CLI
-- Armazenamento Assíncrono (Persistência de Dados)
-- Integrar uma aplicação com NodeJS (Backend).
-- Criar tabelas no banco de dados
-- Faça consultas simples e complexas no MySQL
-- Tratamento de dados em tempo real usando SOCKET IO
-- Autenticação de usuários com JSON WEB TOKENS
-- Google mapas
-- Notificações via push
-- Desenhe rotas no mapa do ponto A ao B
-- Coloque marcadores personalizados
-- Integre o Firebase Storage para armazenar imagens na nuvem
-- Relacionamento de dados em bancos de dados MySQL
-- Navegação GPS
-- Geolocalização
-- Solicitações HTTP
-- Pagamento de mercado
--Listra
--Código do Estúdio Visual
--Carteiro
-- Bancada de trabalho MySQL
-- Produtos CRUD
-- Categorias CRUD
-- Sacola de compras CRUD
