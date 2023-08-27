@@ -32,7 +32,7 @@
 - CRUD carrinho de compras
 
 
-## ReactNativo:
+## ReactNative:
 
 React Native é uma estrutura de código aberto criada pela Meta Platforms, Inc. É usada para desenvolver aplicativos para Android, Android TV, iOS, macOS, tvOS, Web, Windows e UWP, permitindo que os desenvolvedores usem o React com os recursos nativos de essas plataformas
 
